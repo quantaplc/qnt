@@ -19,7 +19,8 @@ This function displays the balance of a particular account.
 ```js
 // This variable keeps balance of account
 mapping(address => uint) public balanceOf;
- 
+
+// This function displays the balance of a particular account
 function balanceOf(address _owner)
     public
     constant
