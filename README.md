@@ -1,4 +1,4 @@
-# QNT
+# Introduction
 
 - QNT (Quanta Network Token) is a breakthrough cryptocurrency token. By design, the total quantity of QNT currently and permanently amounts to 120 billion tokens.  During last year's token sale, purchasers bought 9.53% of the total QNT, while the remaining QNT is held by Quanta PLC, a privately held blockchain company headquartered in Douglas, Isle of Man. QNT is governed by the globally respected and stringent Isle of Man Financial Services Authority (IOMFSA).
 
