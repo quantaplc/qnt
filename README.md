@@ -16,7 +16,7 @@ Quanta PLC added the famously-used balance function source code into our QNT sma
 
 ```js
 // This variable keeps balance of account
-mapping(address => uint) public balanceOf;
+mapping(address => uint) public balances;
 
 // This function displays the balance of a particular account
 function balanceOf(address _owner)
@@ -24,6 +24,6 @@ function balanceOf(address _owner)
     constant
     returns (uint balance)
 {
-    return balanceOf[_owner];    
+    return balances[_owner];    
 }
 ```
